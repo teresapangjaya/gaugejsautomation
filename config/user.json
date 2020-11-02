@@ -1,0 +1,8 @@
+{
+    "admin"     : {"username": "administrator@example.com", "password": "password"},
+    "adminMMS"  : {"username": "all", "password": "password1"},
+    "regis"     : {"username": "reg1", "password": "password"},
+    "dokter"    : {"username": "gp1", "password": "password"},
+    "billing"   : {"username": "bill1", "password": "password"},
+    "staff"     : {"username": "standardUser@example.com", "password": "password"}
+}

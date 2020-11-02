@@ -1,0 +1,8 @@
+{
+    "baseUrl"           : "",
+    "validEmail"        : "",
+    "validPassword"     : "",
+    "invalidEmail"      : "",
+    "invalidPassword"   : "",
+    "wrongEmail"        : ""
+}
